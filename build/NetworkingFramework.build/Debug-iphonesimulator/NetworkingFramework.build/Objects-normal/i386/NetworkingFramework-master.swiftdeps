@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ed6b6d4a6a77f96435f3e94c6090e787"
+build_time: [548071100, 542823000]
+inputs:
+  "/Users/Rathish/Documents/Rathish/Frameworks/NetworkingFramework/NetworkingFramework/DLNetworkingManager.swift": [548067818, 0]
+  "/Users/Rathish/Documents/Rathish/Frameworks/NetworkingFramework/NetworkingFramework/DLNetworkingTypes.swift": [547832914, 0]
+  "/Users/Rathish/Documents/Rathish/Frameworks/NetworkingFramework/NetworkingFramework/Reachability.swift": [543482698, 0]

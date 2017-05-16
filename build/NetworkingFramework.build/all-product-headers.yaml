@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Rathish/Library/Developer/Xcode/DerivedData/NetworkingFramework-bhdxgjgvfiddajdnareaklvtzleo/Build/Products/Debug-iphonesimulator/NetworkingFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NetworkingFramework-Swift.h",
+          'external-contents': "/Users/Rathish/Library/Developer/Xcode/DerivedData/NetworkingFramework-bhdxgjgvfiddajdnareaklvtzleo/Build/Products/Debug-iphonesimulator/NetworkingFramework.framework/Headers/NetworkingFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NetworkingFramework.h",
+          'external-contents': "/Users/Rathish/Documents/Rathish/Frameworks/NetworkingFramework/NetworkingFramework/NetworkingFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rathish/Library/Developer/Xcode/DerivedData/NetworkingFramework-bhdxgjgvfiddajdnareaklvtzleo/Build/Products/Debug-iphonesimulator/NetworkingFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Rathish/Documents/Rathish/Frameworks/NetworkingFramework/build/NetworkingFramework.build/Debug-iphonesimulator/NetworkingFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

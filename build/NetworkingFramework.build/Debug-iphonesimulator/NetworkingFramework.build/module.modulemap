@@ -1,0 +1,10 @@
+framework module NetworkingFramework {
+  umbrella header "NetworkingFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module NetworkingFramework.Swift {
+    header "NetworkingFramework-Swift.h"
+}
