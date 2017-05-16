@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'NetworkingFramework'
-s.version          = '0.1.0'
+s.version          = '0.2.0'
 s.summary          = 'The framework handles Network Rechabllity while making network calls and serializes the data.'
 
 s.description      = <<-DESC
