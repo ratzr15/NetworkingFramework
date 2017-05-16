@@ -44,6 +44,16 @@ Refer the example project ---> "https://ratzr15@bitbucket.org/ratzr15/dubaibroke
 
 Add more methods and functions by incrementing version.
 
+## Troubleshooting ?
+
+While Intgrating through CocoaPods, might encounter framework not found Linker err:
+
+Fix:
+
+1. Search for FRAMEWORK_SEARCH_PATHS in your project's target.
+2. Enter $(inherited) has the path
+3. Import the required framework module in the class to be used.
+
 ## Contributing
 
 Thanks Guys !!
